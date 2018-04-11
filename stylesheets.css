@@ -1,0 +1,48 @@
+html {  }
+header {  
+    font-size: 80px;
+    font-family:'Gaegu', cursive;
+
+    color: cyan;  
+    text-align: center;  
+    background-image: url(img_tree.png);
+    
+}
+h1 {  
+    font-size: 14px;
+    font-family:'Gaegu', cursive;
+
+    color: black;  
+    text-align: right; 
+    top: 30;  
+    right: 30;
+}
+h2 {  
+    font-size: 20px;
+    font-family: serif
+    
+}
+p {  
+    font-size: 14px; 
+    font-family: Arial; 
+}
+
+img {
+    border-radius: 80px/ 40px;
+    box-shadow: 10px 10px 5px #888;
+    justify-content: flex-start
+}
+ 
+a {
+   font-family:'Gaegu', cursive;
+}
+
+div {
+ font-family:'Gaegu', cursive;    
+}
+
+form {
+    justify-content: center;
+    border: 1px solid #000;
+    padding: 5px;
+}
